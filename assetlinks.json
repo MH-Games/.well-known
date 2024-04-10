@@ -11,5 +11,17 @@
         "43:45:C7:BE:03:F7:40:40:B2:C3:6F:39:E9:C9:11:D0:B5:2C:72:5D:C7:92:E1:E6:FC:EA:DF:E0:58:CC:DF:F4"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mhgames.jellyjewelry",
+      "sha256_cert_fingerprints": [
+        "BE:9F:AE:42:6C:3A:BC:51:E6:BB:9C:DB:28:9C:FC:81:59:92:8E:D9:AE:D3:B5:8F:6B:B0:B8:07:40:BF:36:E4"
+      ]
+    }
   }
 ]
