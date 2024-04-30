@@ -1,14 +1,20 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.MH.shootinggamewithfriend",
-      "sha256_cert_fingerprints":
-        ["06:9B:5F:FD:7C:FE:CC:07:E3:3A:BB:D4:FB:41:75:D9:EE:9B:B7:2B:C7:30:B5:3E:3A:99:8F:53:87:84:47:18"]
+      "sha256_cert_fingerprints": [
+        "06:9B:5F:FD:7C:FE:CC:07:E3:3A:BB:D4:FB:41:75:D9:EE:9B:B7:2B:C7:30:B5:3E:3A:99:8F:53:87:84:47:18"
+      ]
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.MHGames.FPSGame",
@@ -19,11 +25,27 @@
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.mhgames.jellyjewelry",
-      "sha256_cert_fingerprints": 
-      ["BE:9F:AE:42:6C:3A:BC:51:E6:BB:9C:DB:28:9C:FC:81:59:92:8E:D9:AE:D3:B5:8F:6B:B0:B8:07:40:BF:36:E4"]
+      "sha256_cert_fingerprints": [
+        "BE:9F:AE:42:6C:3A:BC:51:E6:BB:9C:DB:28:9C:FC:81:59:92:8E:D9:AE:D3:B5:8F:6B:B0:B8:07:40:BF:36:E4"
+      ]
     }
-  }]
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.MHGames.SaveCastle",
+      "sha256_cert_fingerprints": [
+        "49:47:5B:FD:E7:60:76:F9:67:A2:FF:C4:C2:4F:92:2F:EA:1C:D0:92:B8:A2:0A:8F:5F:8F:8F:4D:0D:F0:D6:00"
+      ]
+    }
+  }
+]
