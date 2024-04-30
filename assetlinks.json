@@ -1,5 +1,16 @@
 [
   {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.MH.shootinggamewithfriend",
+      "sha256_cert_fingerprints":
+        ["06:9B:5F:FD:7C:FE:CC:07:E3:3A:BB:D4:FB:41:75:D9:EE:9B:B7:2B:C7:30:B5:3E:3A:99:8F:53:87:84:47:18"]
+    }
+  }
+]
+[
+  {
     "relation": [
       "delegate_permission/common.handle_all_urls"
     ],
@@ -12,6 +23,8 @@
       ]
     }
   },
+]
+[
   {
     "relation": [
       "delegate_permission/common.handle_all_urls"
